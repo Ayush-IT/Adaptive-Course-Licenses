@@ -33,7 +33,8 @@ This corresponds to `[addresses] AdaptiveCourseLicenses` in `Move.toml`.
 ---
 
 ### Deployment Screenshot
-![Deployment Transaction Screenshot](![alt text](image.png))
+![Deployment Transaction Screenshot](![alt text](image.png)<img width="1905" height="897" alt="image" src="https://github.com/user-attachments/assets/15637d31-92d7-4c5b-8df6-6ccc1e728917" />
+)
 
 ### Quick Start
 - Compile: `aptos move compile`
