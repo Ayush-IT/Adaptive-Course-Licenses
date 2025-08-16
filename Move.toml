@@ -1,0 +1,16 @@
+[package]
+name = "Adaptive-Course-Licenses"
+version = "1.0.0"
+authors = []
+
+[addresses]
+AdaptiveCourseLicenses='0xa9d402b31db0a5575fb9d065f0b09798149b47efdb8392264926fd14224af39d'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
